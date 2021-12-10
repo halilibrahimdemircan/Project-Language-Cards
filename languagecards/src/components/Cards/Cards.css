@@ -1,0 +1,9 @@
+.cards-container {
+  width: 30rem;
+  height: 40rem;
+  background-color: aqua;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
